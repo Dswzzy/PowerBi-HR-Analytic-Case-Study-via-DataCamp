@@ -1,3 +1,6 @@
+![PowerBi Image](https://github.com/Dswzzy/PowerBi-HR-Analytic-Case-Study-via-DataCamp/assets/142634749/069f6f57-c78c-4c11-a971-0943e4a217e8)
+
+
 ## Summary of case study
 This case study is to apply skills developed through the Power BI course offered by Data Camp using a real-world problem. This is the second project assignment.
 
